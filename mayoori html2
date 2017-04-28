@@ -1,0 +1,33 @@
+<!doctype>
+<html>
+<body >
+<h1><center>uki-student </center></h1>
+<center><form style="background-color:lightblue; width:700px; text-align:left;>
+  <fieldset>
+  <legend>uki-life</legend>
+  <pre>
+first Name:<input type="text" name="fname"><br>
+last name:<input type="text" name="lname"><br>
+Reg.no:<input type="number" name="fname"><br>
+date of birth:<input type="text" name="date"> <br>
+</pre>
+Gender:female<input type="radio" name="gender" checked>male<input type="radio" name="gender" ><br><br>
+fav.subect:<br>
+<input type="checkbox" name="course" value="programming">programming<input type="checkbox" name="course" value="business">business<input type="checkbox" name="course" value="english">english<input type="checkbox" name="course" value="personal coaching">personal coaching<br><br>
+feedback:
+<textarea name="study" cols="40" rows="20"> enter here
+</textarea><br><br>
+<input type="reset" name="rst" value="reset"> &nbsp &nbsp &nbsp <input type="submit" name="smt" value="submit"><br>
+
+
+
+
+
+
+
+
+</fieldset>
+
+</center></form>
+</body>
+</html>

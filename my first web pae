@@ -1,0 +1,51 @@
+<!doctype=html>
+<html>
+<head>
+<title> my first web page </title>
+<meta charset="utf-8">
+<link rel="stylesheet" href="style.css">
+<script src="action.js"> </script>
+</head>
+<body background="32647323-Happy-asian-caucasian-girl-lerning-in-study-woth-lots-of-books-on-the-table-isolated-Stock-Photo.jpg">
+<h1> welcome to uki </h1>
+<h2 style="background-color:pink;"> welcome to uki </h2>
+<h3><strong>
+welcome to uki </strong></h3>
+<h4><ins>welcome to uki</ins></h4>
+<h5>welcome to uki</h5>
+<h6><ins>welcome to uki</ins></h6>
+<hr>
+</p>
+<table border="5" style="border:10px solid black "m>
+ <tr>
+   <th>Name</th>
+   <th>Age</th>
+   <th>City</th>
+ </tr>
+ <tr>
+   <td>abi</td>
+   <td>20</td>
+   <td>jaffna</td>
+ </tr>
+ <tr>
+   <td>ravi</td>
+   <td>30</td>
+   <td>nallur</td>
+ </tr>
+<tr>
+  <td>mayu</td>
+  <td>35</td>
+  <td>jaffna</td>
+</tr>
+</table>
+<p style="color:red;">
+hello world
+this is my first page on uki
+</p>
+<p>
+x<sup> 2</sup>+ y<sup> 2 </sup>
+<hr>
+</..<a href="http://mayoorirajee.blogspot.com/2017/04/last-day-in-first-week-uki-21.html">this is my blog</a>..>
+<img src="images.jpeg" width="1000" height="1000" >
+<hr></body>
+</html>
